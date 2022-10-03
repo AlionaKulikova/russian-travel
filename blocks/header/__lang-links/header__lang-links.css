@@ -1,0 +1,16 @@
+.header__lang-links {
+  position: relative;
+  display: flex;
+  gap: 18px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+
+.header_lang-links {
+  max-width: 62px;
+  min-height: 20px;
+  gap: 18px;
+}
