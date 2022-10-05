@@ -3,7 +3,6 @@
 	padding: 0;
 	margin-bottom: 12px;
 	max-width: 456px;
-	max-height: 12px;
 	position: relative;
 	font-style: normal;
 	font-weight: 400;
@@ -15,7 +14,6 @@
 @media screen and (max-width: 1280px) {
 	.website__title {
 		max-width: 456px;
-		max-height: 12px;
 		margin-bottom: 12px;
 		font-style: normal;
 		font-weight: 400;
@@ -29,7 +27,6 @@
 @media screen and (max-width: 1024px) {
 	.website__title {
 		max-width: 456px;
-		max-height: 12px;
 		margin-bottom: 12px;
 		font-style: normal;
 		font-weight: 400;
@@ -43,7 +40,6 @@
 @media screen and (max-width: 768px) {
 	.website__title {
 		max-width: 352px;
-		max-height: 12px;
 		margin-bottom: 12px;
 		font-style: normal;
 		font-weight: 400;
@@ -57,7 +53,6 @@
 @media screen and (max-width: 767px) {
 	.website__title {
 		max-width: 288px;
-		max-height: 12px;
 		margin-bottom: 12px;
 		margin-left: 5px;
 		font-style: normal;
@@ -72,7 +67,6 @@
 @media screen and (max-width: 320px) {
 	.website__title {
 		max-width: 288px;
-		max-height: 12px;
 		margin-bottom: 12px;
 		margin-left: 5px;
 		font-style: normal;

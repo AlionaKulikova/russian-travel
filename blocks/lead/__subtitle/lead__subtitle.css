@@ -3,7 +3,6 @@
   margin: 0;
   position: relative;
   max-width: 640px;
-  height: 72px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 32px;
@@ -18,7 +17,6 @@
 @media screen and (max-width: 1280px) {
   .lead__subtitle {
     max-width: 640px;
-    min-height: 72px;
     margin-left: 172px;
     margin-right: 172px;
     margin-top: 32px;
@@ -34,7 +32,6 @@
 @media screen and (max-width: 1024px) {
   .lead__subtitle {
     max-width: 640px;
-    min-height: 72px;
     margin-left: 144px;
     margin-right: 144px;
     margin-top: 32px;
@@ -50,7 +47,6 @@
 @media screen and (max-width: 768px) {
   .lead__subtitle {
     max-width: 640px;
-    min-height: 72px;
     margin-left: 64px;
     margin-right: 64px;
     margin-top: 56px;
@@ -66,7 +62,6 @@
 @media screen and (max-width: 767px) {
   .lead__subtitle {
     max-width: 288px;
-    min-height: 40px;
     margin-left: 16px;
     margin-right: 16px;
     margin-top: 16px;
@@ -82,7 +77,6 @@
 @media screen and (max-width: 320px) {
   .lead__subtitle {
     max-width: 288px;
-    min-height: 40px;
     margin-left: 16px;
     margin-right: 16px;
     margin-top: 16px;

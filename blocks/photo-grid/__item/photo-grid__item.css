@@ -12,6 +12,7 @@
     max-height: 213px;
     object-fit: cover;
   }
+}
 
   @media screen and (max-width: 1024px) {
     .photo-grid_item {
@@ -19,6 +20,7 @@
       max-height: 225px;
       object-fit: cover;
     }
+  }
 
     @media screen and (max-width: 768px) {
       .photo-grid_item {

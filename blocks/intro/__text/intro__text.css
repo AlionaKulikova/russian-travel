@@ -3,7 +3,6 @@
   padding: 0;
   position: relative;
   max-width: 690px;
-  min-height: 208px;
   margin-top: 40px;
   font-style: normal;
   font-weight: 400;
@@ -14,7 +13,6 @@
 @media screen and (max-width: 1280px) {
   .intro__text {
     max-width: 690px;
-    min-height: 208px;
     margin: 0;
     margin-top: 40px;
     margin-bottom: 33px;
@@ -31,7 +29,6 @@
 @media screen and (max-width: 1024px) {
   .intro__text {
     max-width: 690px;
-    min-height: 208px;
     margin: 0;
     margin-top: 40px;
     margin-bottom: 33px;
@@ -48,7 +45,6 @@
 @media screen and (max-width: 768px) {
   .intro__text {
     max-width: 720px;
-    min-height: 208px;
     margin-top: 40px;
     margin-bottom: 33px;
     margin-left: 0px;
@@ -64,7 +60,6 @@
 @media screen and (max-width: 320px) {
   .intro__text {
     max-width: 288px;
-    min-height: 520px;
     margin-top: 40px;
     margin-bottom: 34px;
     margin-left: 0px;

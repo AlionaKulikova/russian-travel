@@ -1,10 +1,9 @@
 .page {
   position: relative;
   max-width: 1280px;
-  min-height: 100%;
   margin-left: auto;
   margin-right: auto;
-  font-family: 'interregular', 'Helvetica Neue', Arial, sans-serif;
+font-family: 'Inter', sans-serif;
   color: #FFFFFF;
   background-color: #2A2C2F;
 }
@@ -16,7 +15,6 @@ a:hover {
 @media (max-width: 1280px) {
   .page {
     width: auto;
-    height: auto;
     margin-right: auto;
     margin-left: auto;
   }
@@ -25,7 +23,6 @@ a:hover {
 @media (max-width: 1024px) {
   .page {
     width: auto;
-    height: auto;
     margin-right: auto;
     margin-left: auto;
   }
@@ -34,7 +31,6 @@ a:hover {
 @media (max-width: 768px) {
   .page {
     width: auto;
-    height: auto;
     margin-right: auto;
     margin-left: auto;
   }
@@ -43,7 +39,6 @@ a:hover {
 @media (max-width: 767px) {
   .page {
     width: auto;
-    height: auto;
     margin-right: auto;
     margin-left: auto;
   }
@@ -52,7 +47,6 @@ a:hover {
 @media (max-width: 320px) {
   .page {
     width: auto;
-    height: auto;
     margin-right: auto;
     margin-left: auto;
   }

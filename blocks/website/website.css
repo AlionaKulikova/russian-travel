@@ -6,7 +6,6 @@
     flex-flow: column nowrap;
     align-self: flex-end;
     max-width: 456px;
-    min-height: 46px;
 }
 
 #website #website-two{
@@ -16,7 +15,6 @@
 @media screen and (min-width: 1280px) {
     .website {
         max-width: 456px;
-        max-height: 46px;
         margin-bottom: 0px;
         margin-right: 0px;
     }
@@ -29,7 +27,6 @@
 @media screen and (max-width: 1280px) {
     .website {
         max-width: 456px;
-        min-height: 46px;
         margin-bottom: 0px;
         margin-right: 0px;
         float: left;
@@ -43,7 +40,6 @@
 @media screen and (max-width: 1024px) {
     .website {
         max-width: 456px;
-        min-height: 46px;
         margin-bottom: 0px;
         margin-right: 0px;
         float: left;
@@ -57,7 +53,6 @@
 @media screen and (max-width: 768px) {
     .website {
         max-width: 352px;
-        min-height: 46px;
         margin-bottom: 0px;
         margin-right: 0px;
         float: left;
@@ -73,7 +68,6 @@
 @media screen and (max-width: 767px) {
     .website {
         max-width: 288px;
-        min-height: 46px;
         margin-bottom: 0px;
         margin-left: 16px;
         margin-right: 16px;
@@ -89,7 +83,6 @@
 @media screen and (max-width: 320px) {
     .website {
         max-width: 288px;
-        min-height: 46px;
         margin-bottom: 0px;
         margin-left: 16px;
         margin-right: 16px;

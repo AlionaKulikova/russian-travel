@@ -3,7 +3,6 @@
   padding: 0;
   position: relative;
   max-width: 690px;
-  min-height: 90px;
   margin-top: 33px;
   font-style: normal;
   font-weight: 700;
@@ -15,7 +14,6 @@
 @media screen and (max-width: 1280px) {
   .intro__list {
     max-width: 690px;
-    min-height: 90px;
     margin: 0;
     margin-top: 33px;
     font-style: normal;
@@ -29,7 +27,6 @@
 @media screen and (max-width: 1024px) {
   .intro__list {
     max-width: 690px;
-    min-height: 90px;
     margin: 0;
     margin-top: 33px;
     font-style: normal;
@@ -43,7 +40,6 @@
 @media screen and (max-width: 768px) {
   .intro__list {
     max-width: 720px;
-    min-height: 90px;
     margin-top: 33px;
     margin-left: 0px;
     margin-right: 0px;
@@ -58,7 +54,6 @@
 @media screen and (max-width: 320px) {
   .intro__list {
     max-width: 288px;
-    min-height: 90px;
     margin-top: 34px;
     margin-left: 0px;
     margin-right: 0px;

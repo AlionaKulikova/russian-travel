@@ -7,7 +7,6 @@
 	justify-content: space-between;
 	gap: 40px;
 	max-width: 984px;
-	min-height: 460px;
 }
 
 .place__conteiner:last-of-type {
@@ -18,7 +17,6 @@
 	.place__conteiner {
 		flex-flow: row nowrap;
 		max-width: 984px;
-		max-height: 460px;
 		gap: 100px;
 		margin-left: 0;
 		margin-top: 0;
@@ -38,7 +36,6 @@
 @media screen and (max-width: 1024px) {
 	.place__conteiner {
 		max-width: 928px;
-		max-height: 440px;
 		gap: 48px;
 		margin-left: 0;
 		margin-top: 0;
@@ -58,7 +55,6 @@
 @media screen and (max-width: 768px) {
 	.place__conteiner {
 		max-width: 720px;
-		max-height: 571px;
 		gap: 28px;
 		margin-top: 0px;
 		margin-bottom: 0px;
@@ -74,7 +70,6 @@
 		flex-flow: column wrap;
 		align-content: space-between;
 		max-width: 320px;
-		max-height: 1053px;
 		gap: 32px;
 		margin-top: 0px;
 		margin-bottom: 0px;
@@ -90,7 +85,6 @@
 		flex-flow: column wrap;
 		align-content: space-between;
 		max-width: 320px;
-		max-height: 1053px;
 		gap: 32px;
 		margin-top: 0px;
 		margin-bottom: 0px;
