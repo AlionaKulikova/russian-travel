@@ -10,74 +10,40 @@
 	align-self: flex-start;
 	text-decoration-line: underline;
 	color: #FFFFFF;
+	opacity: 1;
+}
+
+.website__link:hover {
+	color: #FFFFFF;
+	opacity: 0.8;
 }
 
 @media screen and (max-width: 1280px) {
 	.website__link {
-		padding: 0;
 		max-width: 456px;
-		margin: 0;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 18px;
-		line-height: 22px;
-		text-decoration-line: underline;
-		color: #FFFFFF;
 	}
 }
 
 @media screen and (max-width: 1024px) {
 	.website__link {
-		padding: 0;
 		max-width: 456px;
-		margin: 0;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 18px;
-		line-height: 22px;
-		text-decoration-line: underline;
-		color: #FFFFFF;
 	}
 }
 
 @media screen and (max-width: 768px) {
 	.website__link {
-		padding: 0;
 		max-width: 352px;
-		margin: 0;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 18px;
-		line-height: 22px;
-		text-decoration-line: underline;
-		color: #FFFFFF;
 	}
 }
 
 @media screen and (max-width: 767px) {
 	.website__link {
-		padding: 0;
-		max-width: 288px;
-		margin: 0;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 18px;
-		line-height: 22px;
-		text-decoration-line: underline;
-		color: #FFFFFF;
+		width: 288px;
 	}
 }
 
 @media screen and (max-width: 320px) {
 	.website__link {
-		padding: 0;
-		max-width: 288px;
-		margin: 0;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 18px;
-		line-height: 22px;
-		text-decoration-line: underline;
-		color: #FFFFFF;
+		width: 288px;
 	}
 }

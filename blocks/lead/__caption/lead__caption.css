@@ -1,11 +1,11 @@
 .lead__caption {
     margin: 0;
     padding: 0;
-    position: absolute;
+    position: relative;
     min-width: 158px;
-    left: 0;
-    right: auto;
-    top: 991px;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 8px;
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
@@ -15,37 +15,20 @@
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 1280px) {
-    .lead__caption {
-        left: 0;
-        top: 991px;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .lead__caption {
-        left: 0;
-        top: 948px;
-    }
-}
-
 @media screen and (max-width: 768px) {
     .lead__caption {
-        left: 24px;
-        top: 848px;
+        margin-left: 24px;
     }
 }
 
 @media screen and (max-width: 767px) {
     .lead__caption {
-        left: 16px;
-        top: 392px;
+        margin-left: 16px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead__caption {
-        left: 16px;
-        top: 392px;
+        margin-left: 16px;
     }
 }

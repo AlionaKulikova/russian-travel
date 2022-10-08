@@ -1,4 +1,4 @@
-.footer__link  {
+.footer__link {
 	margin: 0;
 	padding: 0;
 	position: relative;
@@ -9,44 +9,17 @@
 	line-height: 18px;
 	max-width: 106px;
 	color: #FFFFFF;
+	opacity: 1;
 }
 
-@media screen and (max-width: 1280px) {
-	.footer__link {
-		font-style: normal;
-		font-weight: 400;
-		font-size: 16px;
-		line-height: 18px;
-		color: #FFFFFF;
-	}
-}
-
-@media screen and (max-width: 1024px) {
-	.footer__link {
-		font-style: normal;
-		font-weight: 400;
-		font-size: 16px;
-		line-height: 18px;
-		color: #FFFFFF;
-	}
-}
-
-@media screen and (max-width: 768px) {
-	.footer__link {
-		font-style: normal;
-		font-weight: 400;
-		font-size: 16px;
-		line-height: 18px;
-		color: #FFFFFF;
-	}
+.footer__link:hover {
+	color: #FFFFFF;
+	opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {
 	.footer__link {
-		font-style: normal;
-		font-weight: 400;
 		font-size: 24px;
 		line-height: 24px;
-		color: #FFFFFF;
 	}
 }

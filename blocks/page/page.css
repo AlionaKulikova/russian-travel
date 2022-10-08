@@ -1,53 +1,47 @@
 .page {
-  position: relative;
-  max-width: 1280px;
-  margin-left: auto;
-  margin-right: auto;
-font-family: 'Inter', sans-serif;
+  top: 0;
+  padding: 0;
+  position: absolute;
+  width: 100%;
+  min-height: 100%;
+  left: auto;
+  right: auto;
+  font-family: 'Inter', sans-serif;
   color: #FFFFFF;
   background-color: #2A2C2F;
 }
 
-a:hover {
-  opacity: 0.8;
-}
-
 @media (max-width: 1280px) {
   .page {
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
+    width: 100%;
+    min-height: 100%;
   }
 }
 
 @media (max-width: 1024px) {
   .page {
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
+    width: 100%;
+    min-height: 100%;
   }
 }
 
 @media (max-width: 768px) {
   .page {
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
+    width: 100%;
+    min-height: 100%;
   }
 }
 
 @media (max-width: 767px) {
   .page {
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
+    width: 100%;
+    min-height: 100%;
   }
 }
 
 @media (max-width: 320px) {
   .page {
-    width: auto;
-    margin-right: auto;
-    margin-left: auto;
+    width: 100%;
+    min-height: 100%;
   }
 }

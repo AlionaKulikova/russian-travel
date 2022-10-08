@@ -8,46 +8,15 @@
   font-weight: 700;
   font-size: 12px;
   line-height: 18px;
+  color: #FFFFFF;
   list-style-type: none;
-}
-
-@media screen and (max-width: 1280px) {
-  .intro__list {
-    max-width: 690px;
-    margin: 0;
-    margin-top: 33px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 18px;
-    color: #FFFFFF;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .intro__list {
-    max-width: 690px;
-    margin: 0;
-    margin-top: 33px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 18px;
-    color: #FFFFFF;
-  }
 }
 
 @media screen and (max-width: 768px) {
   .intro__list {
     max-width: 720px;
-    margin-top: 33px;
     margin-left: 0px;
     margin-right: 0px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 18px;
-    color: #FFFFFF;
   }
 }
 
@@ -57,10 +26,5 @@
     margin-top: 34px;
     margin-left: 0px;
     margin-right: 0px;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 12px;
-    line-height: 18px;
-    color: #FFFFFF;
   }
 }
