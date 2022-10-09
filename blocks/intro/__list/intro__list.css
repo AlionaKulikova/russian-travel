@@ -1,7 +1,6 @@
 .intro__list {
   margin: 0;
   padding: 0;
-  position: relative;
   max-width: 690px;
   margin-top: 33px;
   font-style: normal;
@@ -24,7 +23,5 @@
   .intro__list {
     max-width: 288px;
     margin-top: 34px;
-    margin-left: 0px;
-    margin-right: 0px;
   }
 }

@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   margin-bottom: 80px;
-  position: relative;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
@@ -16,28 +15,13 @@
 
 @media screen and (max-width: 1280px) {
   .place {
-    max-width: 984px;
-    margin-left: 0px;
-    margin-right: 0px;
     gap: 48px;
-  }
-
-  .place:last-of-type {
-    margin-bottom: 0;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .place {
     max-width: 928px;
-    margin-bottom: 80px;
-    margin-left: 0px;
-    margin-right: 0px;
-    gap: 48px;
-  }
-
-  .place:last-of-type {
-    margin-bottom: 0;
   }
 }
 
@@ -45,12 +29,6 @@
   .place {
     max-width: 720px;
     margin-bottom: 73px;
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-
-  .place:last-of-type {
-    margin-bottom: 0;
   }
 }
 
@@ -59,19 +37,10 @@
     max-width: 320px;
     margin-bottom: 50px;
   }
-
-  .place:last-of-type {
-    margin-bottom: 0;
-  }
 }
 
 @media screen and (max-width: 320px) {
   .place {
-    max-width: 320px;
-    margin-bottom: 50px;
-  }
-
-  .place:last-of-type {
-    margin-bottom: 0;
+    gap: 32px;
   }
 }

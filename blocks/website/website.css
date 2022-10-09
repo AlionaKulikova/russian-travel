@@ -10,23 +10,9 @@
     margin-right: 0px;
 }
 
-@media screen and (max-width: 1280px) {
-    .website {
-
-        float: left;
-    }
-}
-
-@media screen and (max-width: 1024px) {
-    .website {
-        float: left;
-    }
-}
-
 @media screen and (max-width: 768px) {
     .website {
         max-width: 352px;
-        float: left;
         align-self: right;
         justify-content: center;
     }
@@ -38,17 +24,11 @@
         margin-left: 16px;
         margin-right: 16px;
         align-self: flex-start;
-        float: left;
     }
 }
 
 @media screen and (max-width: 320px) {
     .website {
-        width: 288px;
-        margin-left: 16px;
-        margin-right: 16px;
-        align-self: flex-start;
-        float: left;
         align-items: left;
     }
 }

@@ -1,8 +1,7 @@
 .cover__subtitle {
   padding: 0;
-  position: relative;
+  margin: 0;
   max-width: 360px;
-  margin-top: 32px;
   margin-right: auto;
   margin-bottom: 245px;
   margin-left: auto;
@@ -19,44 +18,29 @@
 @media screen and (min-width: 1281px) {
   .cover__subtitle {
     margin-bottom: 200px;
-    min-width: 360px;
   }
 }
 
 @media screen and (max-width: 1280px) {
   .cover__subtitle {
     margin-bottom: 245px;
-    min-width: 360px;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .cover__subtitle {
     margin-bottom: 195px;
-    min-width: 360px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__subtitle {
     margin-bottom: 115px;
-    min-width: 360px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover__subtitle {
-    margin-top: 16px;
-    margin-bottom: 33px;
-    min-width: 288px;
-    font-size: 14px;
-    line-height: 16px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover__subtitle {
-    margin-top: 16px;
     margin-bottom: 33px;
     min-width: 288px;
     font-size: 14px;

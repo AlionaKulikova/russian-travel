@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   max-width: 1184px;
-  position: relative;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -15,8 +14,6 @@
 
 @media screen and (max-width: 1280px) {
   .photo-grid {
-    max-width: 1184px;
-    justify-content: center;
     margin-right: 48px;
     margin-left: 48px;
     margin-top: 88px;
@@ -27,37 +24,27 @@
 @media screen and (max-width: 1024px) {
   .photo-grid {
     max-width: 928px;
-    justify-content: center;
-    margin-right: 48px;
-    margin-left: 48px;
-    margin-top: 88px;
     gap: 14px;
-    align-content: center;
   }
 }
 
 @media screen and (max-width: 768px) {
   .photo-grid {
     max-width: 720px;
-    justify-content: center;
     margin-right: 24px;
     margin-left: 24px;
-    margin-top: 88px;
     margin-bottom: 88px;
     gap: 16px;
-    align-content: center;
   }
 }
 
 @media screen and (max-width: 320px) {
   .photo-grid {
     max-width: 288px;
-    justify-content: center;
     margin-right: 16px;
     margin-left: 16px;
     margin-top: 64px;
     margin-bottom: 64px;
     gap: 12px;
-    align-content: center;
   }
 }

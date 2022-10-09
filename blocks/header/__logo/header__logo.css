@@ -6,7 +6,6 @@
   width: 176px;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
 }
 
 @media screen and (max-width: 320px) {

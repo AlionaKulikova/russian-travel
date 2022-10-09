@@ -1,7 +1,6 @@
 .footer__links {
 	margin: 0;
 	padding: 0;
-	position: relative;
 	max-width: auto;
 	display: flex;
 	flex-flow: row wrap;

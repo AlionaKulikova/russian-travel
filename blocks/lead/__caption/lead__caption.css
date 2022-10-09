@@ -1,7 +1,6 @@
 .lead__caption {
     margin: 0;
     padding: 0;
-    position: relative;
     min-width: 158px;
     margin-left: 0;
     margin-right: auto;
@@ -22,12 +21,6 @@
 }
 
 @media screen and (max-width: 767px) {
-    .lead__caption {
-        margin-left: 16px;
-    }
-}
-
-@media screen and (max-width: 320px) {
     .lead__caption {
         margin-left: 16px;
     }

@@ -1,6 +1,6 @@
 .cover__title {
+  margin: 0;
   padding: 0;
-  position: relative;
   margin-top: 245px;
   margin-right: auto;
   margin-bottom: 32px;
@@ -16,23 +16,14 @@
   opacity: 1;
 }
 
-
-@media screen and (max-width: 1280px) {
-  .cover__title {
-    max-width: 560px;
-  }
-}
-
 @media screen and (max-width: 1024px) {
   .cover__title {
-    max-width: 560px;
     margin-top: 195px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__title {
-    max-width: 560px;
     margin-top: 115px;
   }
 }
@@ -47,13 +38,9 @@
   }
 }
 
-@media screen and(max-width: 320px) {
+@media screen and (max-width: 320px) {
   .cover__title {
-    max-width: 288px;
-    margin-top: 33px;
-    margin-bottom: 16px;
     font-size: 32px;
     line-height: 35px;
-
   }
 }

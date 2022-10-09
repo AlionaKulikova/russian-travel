@@ -7,21 +7,13 @@
 	font-style: normal;
 	font-weight: 400;
 	font-size: 12px;
-	line-height: 12px;
+	line-height: 170%;
 	color: #AAAAAA;
 	letter-spacing: 2px;
 }
 
-@media screen and (max-width: 1280px) {
-	.website__title {
-		max-width: 456px;
-		line-height: 170%;
-	}
-}
-
 @media screen and (max-width: 1024px) {
 	.website__title {
-		max-width: 456px;
 		line-height: 12px;
 	}
 }
@@ -33,13 +25,6 @@
 }
 
 @media screen and (max-width: 767px) {
-	.website__title {
-		width: 288px;
-		margin-left: 5px;
-	}
-}
-
-@media screen and (max-width: 320px) {
 	.website__title {
 		width: 288px;
 		margin-left: 5px;

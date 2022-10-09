@@ -1,7 +1,6 @@
 .header {
    margin: 0;
    padding: 0;
-   position: relative;
    display: flex;
    justify-content: space-between;
    max-width: 1184px;
@@ -15,18 +14,13 @@
       margin-left: 48px;
       margin-right: 48px;
       margin-bottom: 56px;
-      max-width: 1184px;
-      min-height: 52px;
    }
 }
 
 @media screen and (max-width: 1024px) {
    .header {
-      margin-left: 48px;
-      margin-right: 48px;
       margin-bottom: 48px;
       max-width: 928px;
-      min-height: 52px;
    }
 }
 
@@ -34,9 +28,7 @@
    .header {
       margin-left: 24px;
       margin-right: 24px;
-      margin-bottom: 48px;
       max-width: 720px;
-      min-height: 52px;
    }
 }
 
@@ -45,8 +37,6 @@
       margin-top: 16px;
       margin-left: 16px;
       margin-right: 16px;
-      margin-bottom: 48px;
       max-width: 288px;
-      min-height: 42px;
    }
 }
