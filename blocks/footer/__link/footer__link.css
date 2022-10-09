@@ -1,23 +1,23 @@
 .footer__link {
-	margin: 0;
-	padding: 0;
-	text-decoration: none;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 16px;
-	line-height: 18px;
-	color: #FFFFFF;
-	opacity: 1;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #ffffff;
+  opacity: 1;
 }
 
 .footer__link:hover {
-	color: #FFFFFF;
-	opacity: 0.8;
+  color: #ffffff;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {
-	.footer__link {
-		font-size: 24px;
-		line-height: 24px;
-	}
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
 }

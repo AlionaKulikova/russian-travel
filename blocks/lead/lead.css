@@ -1,48 +1,48 @@
 .lead {
-   margin: 0;
-   padding: 0;
-   background-color: #2A2C2F;
-   max-width: 984px;
-   margin-left: 148px;
-   margin-right: 148px;
-   margin-top: 56px;
-   margin-bottom: 64px;
-   z-index: 1;
+  margin: 0;
+  padding: 0;
+  background-color: #2a2c2f;
+  max-width: 984px;
+  margin-left: 148px;
+  margin-right: 148px;
+  margin-top: 56px;
+  margin-bottom: 64px;
+  z-index: 1;
 }
 
 @media screen and (min-width: 1281px) {
-   .lead {
-      margin-left: auto;
-      margin-right: auto;
-   }
+  .lead {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @media screen and (max-width: 1280px) {
-   .lead {
-      margin-left: 148px;
-      margin-right: 148px;
-   }
+  .lead {
+    margin-left: 148px;
+    margin-right: 148px;
+  }
 }
 
 @media screen and (max-width: 1024px) {
-   .lead {
-      max-width: 928px;
-      margin-top: 48px;
-      margin-left: 48px;
-      margin-right: 48px;
-   }
+  .lead {
+    max-width: 928px;
+    margin-top: 48px;
+    margin-left: 48px;
+    margin-right: 48px;
+  }
 }
 
 @media screen and (max-width: 768px) {
-   .lead {
-      max-width: 768px;
-      margin-left: auto;
-      margin-right: auto;
-   }
+  .lead {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 @media screen and (max-width: 767px) {
-   .lead {
-      max-width: 320px;
-   }
+  .lead {
+    max-width: 320px;
+  }
 }

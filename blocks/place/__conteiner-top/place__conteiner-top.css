@@ -1,32 +1,32 @@
 .place__conteiner-top {
-	margin: 0;
-	padding: 0;
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-between;
-	gap: 40px;
-	max-width: 984px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  gap: 40px;
+  max-width: 984px;
 }
 
 @media screen and (max-width: 1024px) {
-	.place__conteiner-top {
-		max-width: 928px;
-		gap: 32px;
-	}
+  .place__conteiner-top {
+    max-width: 928px;
+    gap: 32px;
+  }
 }
 
 @media screen and (max-width: 768px) {
-	.place__conteiner-top {
-		max-width: 720px;
-		gap: 28px;
-	}
+  .place__conteiner-top {
+    max-width: 720px;
+    gap: 28px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-	.place__conteiner-top {
-		flex-flow: column wrap;
-		align-content: space-between;
-		max-width: 320px;
-		gap: 32px;
-	}
+  .place__conteiner-top {
+    flex-flow: column wrap;
+    align-content: space-between;
+    max-width: 320px;
+    gap: 32px;
+  }
 }

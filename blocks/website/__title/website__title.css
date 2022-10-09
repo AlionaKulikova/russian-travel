@@ -1,32 +1,32 @@
 .website__title {
-	margin: 0;
-	padding: 0;
-	margin-bottom: 12px;
-	max-width: 456px;
-	position: relative;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 12px;
-	line-height: 170%;
-	color: #AAAAAA;
-	letter-spacing: 2px;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 12px;
+  max-width: 456px;
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 170%;
+  color: #aaaaaa;
+  letter-spacing: 2px;
 }
 
 @media screen and (max-width: 1024px) {
-	.website__title {
-		line-height: 12px;
-	}
+  .website__title {
+    line-height: 12px;
+  }
 }
 
 @media screen and (max-width: 768px) {
-	.website__title {
-		max-width: 352px;
-	}
+  .website__title {
+    max-width: 352px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-	.website__title {
-		width: 288px;
-		margin-left: 5px;
-	}
+  .website__title {
+    width: 288px;
+    margin-left: 5px;
+  }
 }
