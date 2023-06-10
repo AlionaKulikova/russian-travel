@@ -9,5 +9,5 @@
 </div>
  <p>Сайт знакомит с интересными городами в России, национальными парками. Перейдя по ссылке можно узнать расписание электричек. Также присутствуют ссылки на погоду, карты, календарь, яндекс путешествия. Все, что необходимо знать, когда собираешься в поездку. Сайт адаптирован под мобильные устройства. Так как в путешествии удобно пользоваться смартфонами. </p>
 <div align="center">
-<img src="https://sun9-47.userapi.com/impg/J42cjsXQizbv6hIlu_rL_zP8fbkip3Z-Bq9qBg/XeBB2tWOkTc.jpg?size=880x961&quality=95&sign=74fb4650866022002ccc24265285cdda&c_uniq_tag=ix_vOYeC0soVwA0lwbZg2TXnIQalshj4kmcelDj999g&type=album" align="center" style="width: 100%" />
+<img src="https://sun9-47.userapi.com/impg/J42cjsXQizbv6hIlu_rL_zP8fbkip3Z-Bq9qBg/XeBB2tWOkTc.jpg?size=880x961&quality=95&sign=74fb4650866022002ccc24265285cdda&c_uniq_tag=ix_vOYeC0soVwA0lwbZg2TXnIQalshj4kmcelDj999g&type=album" align="center" style="width: 80%" />
 </div>  
